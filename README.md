@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#ffbdf9&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=55&duration=4000&pause=3&color=ffbdf9&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyemin's+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=55&duration=4000&pause=3&color=ffbdf9&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+bbikgu+GitHub!)](https://git.io/typing-svg)
 ---
 
 ## 🌱 I’m currently learning ,,, 🌱
@@ -14,7 +14,7 @@
 
 ## 💬 Language Statistics Used 💬
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeminililo&show_icons=true&locale=en&layout=compact" alt="bbikgu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbikgu&show_icons=true&locale=en&layout=compact" alt="bbikgu" /></p>
 <hr>
 
 ## 🔨 Once I've used 🔨
